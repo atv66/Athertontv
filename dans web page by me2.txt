@@ -20,6 +20,13 @@
 
 	
 
+body {
+    background-color: #105775;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial","Helvetica","San-serif";
+    font-size: 14px;
+}
 
 <header class=" centered_logo scroll_header_top_area  regular page_header">
     <div class="header_inner clearfix">
