@@ -115,7 +115,7 @@
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<h1 style="text-align: center;"><strong style="color: :#FF00FF">
- line-height: 1em;"><a href="http://dannyroman.co.uk"><span style="font-size: 24px;">Danny Roman presents the ultimate Tom Jones Tribute</span></a><br class="none"></strong></h1>
+><a href="http://dannyroman.co.uk"><span style="font-size: 24px;">Danny Roman presents the ultimate Tom Jones Tribute</span></a><br class="none"></strong></h1>
 <p style="text-align: center;">All the charismatic hip swinging sex appeal and vocal ability&nbsp;that has made Tom Jones a singing legend throughout the world.</p>
 
 		</div> 
